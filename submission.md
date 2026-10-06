@@ -6,7 +6,7 @@ Name:James
 
 GitHub Username: chanmin100602-ui
 
-Required Branch:cp3-YOUR-GITHUB-USERNAME
+Required Branch:cp3-chanmin100602-ui
 
 Project URL:https://github.com/chanmin100602-ui/cp3-issues-projects-workflow.git
 
