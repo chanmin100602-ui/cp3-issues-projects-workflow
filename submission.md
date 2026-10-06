@@ -35,3 +35,4 @@ Answer:They should be tracked in the same Project so the Issue and the code chan
 What should you self-check in the Pull Request before merging and moving the work from Review to Done, and why?
 
 Answer:I should check the files, Issue link, and submission information before merging. This makes sure everything is correct and ready before the work is marked as Done.
+
